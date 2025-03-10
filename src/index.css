@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #231919;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -45,6 +45,11 @@ button {
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0.5em;
+  color: #64ffc4;
 }
 button:hover {
   border-color: #646cff;
